@@ -1,8 +1,8 @@
-![logotipo de The Bridge](https://user-images.githubusercontent.com/27650532/77754601-e8365180-702b-11ea-8bed-5bc14a43f869.png 'logotipo de The Bridge')
+![logotipo de The Bridge](https://user-images.githubusercontent.com/27650532/77754601-e8365180-702b-11ea-8bed-5bc14a43f869.png "logotipo de The Bridge")
 
 ## 1. Funciones flecha
 
-- [ ] 1.- Convierte la siguiente función en una función flecha:
+- [✔️] 1.- Convierte la siguiente función en una función flecha:
 
 ```
 function greetings() {
@@ -10,7 +10,7 @@ function greetings() {
 }
 ```
 
-- [ ] 2.- Convierte la siguiente función en una función flecha en línea:
+- [✔️] 2.- Convierte la siguiente función en una función flecha en línea:
 
 ```
 function division(a, b) {
@@ -18,7 +18,7 @@ function division(a, b) {
 }
 ```
 
-- [ ] 3.- Convierte la siguiente función en una función flecha:
+- [✔️] 3.- Convierte la siguiente función en una función flecha:
 
 ```
 function myName(name) {
@@ -26,7 +26,7 @@ function myName(name) {
 }
 ```
 
-- [ ] 4.- Convierte las siguientes funciones en funciones flecha:
+- [✔️] 4.- Convierte las siguientes funciones en funciones flecha:
 
 ```
 function test2() {
@@ -54,16 +54,16 @@ let people = [
 
 ```
 
-- [ ] 1.- Crea un array con la gente mayor de 25 años y muéstralo por consola.
-- [ ] 2.- Crea un array con la gente que empieza por J.
+- [✔️] 1.- Crea un array con la gente mayor de 25 años y muéstralo por consola.
+- [✔️] 2.- Crea un array con la gente que empieza por J.
 
 ## 3. Map
 
-- [ ] 1.- Utilizando el array de antes crea un array con la gente mayor de 25 años y muéstralo por consola.
+- [✔️ ] 1.- Utilizando el array de antes crea un array con la gente mayor de 25 años y muéstralo por consola.
 
-- [ ] 2.- Crea un array con la gente que empieza por J.
+- [✔️] 2.- Crea un array con la gente que empieza por J.
 
-- [ ] 3.- Dado el siguiente array, crear otro que sea el resultado de elevar cada número a si mismo:
+- [✔️] 3.- Dado el siguiente array, crear otro que sea el resultado de elevar cada número a si mismo:
 
 ```
 const numbers = [ 4, 5, 6, 7, 8, 9, 10]
@@ -74,14 +74,14 @@ const numbers = [ 4, 5, 6, 7, 8, 9, 10]
 
 ## 4. Filter
 
-- [ ] 1.- Crea un segundo array que devuelva los impares
+- [✔️] 1.- Crea un segundo array que devuelva los impares
 
 ```
 const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
 ```
 
-- [ ] 2.- Dado el siguiente array, genera un segundo array que filtre los platos veganos y saque una sentencia como la del ejemplo:
+- [✔️] 2.- Dado el siguiente array, genera un segundo array que filtre los platos veganos y saque una sentencia como la del ejemplo:
 
 ```
  const foodList = [
@@ -99,7 +99,7 @@ const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
 ## 5. Reduce
 
-- [ ] 1.- Dado el siguiente array, obtén la multiplicación de todos los elementos del array:
+- [✔️] 1.- Dado el siguiente array, obtén la multiplicación de todos los elementos del array:
 
 ```
 const numbers = [39, 2, 4, 25, 62]
@@ -111,7 +111,7 @@ const numbers = [39, 2, 4, 25, 62]
 
 ## Map
 
-- [ ] 1.- Dado el siguiente array, crear un segundo array que forme frases como en el ejemplo accediendo a las propiedades del objeto proporcionado:
+- [✔️] 1.- Dado el siguiente array, crear un segundo array que forme frases como en el ejemplo accediendo a las propiedades del objeto proporcionado:
 
 ```
 const staff = [
@@ -150,7 +150,7 @@ const staff = [
 
 ```
 
-- [ ] 2.- Dado el siguiente array, generar un segundo array que consiga generar de salida el resultado esperado:
+- [✔️] 2.- Dado el siguiente array, generar un segundo array que consiga generar de salida el resultado esperado:
 
 ```
 const foodList = ["Pizza", "Ramen", "Paella", "Entrecot"];
@@ -167,7 +167,7 @@ const foodList = ["Pizza", "Ramen", "Paella", "Entrecot"];
 
 ## Filter
 
-- [ ] 1.- Dado el siguiente array, devolver un array con los nombres de los elementos que valgan más de 300 euros
+- [✔️] 1.- Dado el siguiente array, devolver un array con los nombres de los elementos que valgan más de 300 euros
 
 ```
 
@@ -200,7 +200,7 @@ const inventory = [
 
 ## Reduce
 
-- [ ] 1.- Concatena todos los elementos del array con reduce para que devuelva una sola frase
+- [✔️] 1.- Concatena todos los elementos del array con reduce para que devuelva una sola frase
 
 ```
 
@@ -220,4 +220,3 @@ const sentenceElements = [
 // Resultado--> 'Me llamo XX y quiero sentir la fuerza con javascript'
 
 ```
-
